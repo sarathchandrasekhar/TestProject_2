@@ -1,4 +1,4 @@
-package rfAUT;
+package ciscosma;
 
 
 
@@ -48,7 +48,7 @@ class GeneralMethods
 	public void openAppl()
 	{
 		//Launch Application
-		Brow.get("file:///C:/Users/schandrasekhar/Downloads/QA%20Test%20%281%29.html");					
+		Brow.get("ciscosmaurl");					
 	}
 	
 		
